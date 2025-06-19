@@ -35,13 +35,10 @@
         flex-direction: row; 
     }
 
-    .content {
-        flex: 1;
-        padding: 1rem;
-    }
-
     main {
         margin-left: 30px;
+        flex: 1;
+        padding: 1rem;
     }
 
     .sidebar {
