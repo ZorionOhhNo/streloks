@@ -98,6 +98,20 @@
     background-color: #666;
 }
 
+
+@media (max-width: 800px){
+
+    .sidebar{
+        display:none;
+    }
+    sidebar2{
+        display:none;
+    }
+
+
+}
+
+
 /* это сделал чат гпт*/
 #spoiler-version,
 #no-spoiler-version {
