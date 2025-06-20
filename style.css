@@ -99,12 +99,12 @@
 }
 
 
-@media (max-width: 800px){
+@media (max-width: 1000px){
 
     .sidebar{
         display:none;
     }
-    sidebar2{
+    .sidebar2{
         display:none;
     }
 
